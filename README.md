@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm [Greg!](https://twitter.com/ghoullier) 👋
 
-<!--
-**ghoullier/ghoullier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/ghoullier">
+  <img align="left" alt="Grégory Houllier | Twitter" width="21px" src="https://raw.githubusercontent.com/ghoullier/ghoullier/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ghoullier/">
+  <img align="left" alt="Grégory's LinkedIn" width="21px" src="https://raw.githubusercontent.com/ghoullier/ghoullier/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Grégory Houlier, Web enthusiast and TypeScript addict and [@RennesJS](https://twitter.com/RennesJS) Co-Founder
+
+- 🔭 I’m currently working on [awesome-template-literal-types](https://github.com/ghoullier/awesome-template-literal-types)
+- 🌱 I’m currently work at [Swile](https://swile.co)
+- 💬 Ask me about anything [here](https://github.com/ghoullier/ghoullier/issues)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoullier&show_icons=true&include_all_commits=true&theme=material-palenight" alt="ghoullier's github stats" />
