@@ -24,6 +24,6 @@ Hi, I'm Grégory Houlier, Web enthusiast and TypeScript addict and [@RennesJS](h
 **My GitHub Stats**
 
 <p aligh="left">
-  <a href="http://www.github.com/ghoullier"><img src="https://github-readme-stats.vercel.app/api?username=ghoullier&show_icons=true&hide=&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghoullier's GitHub stats" width="calc(50% - 5px)" /></a>
-  <a href="http://www.github.com/ghoullier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoullier&stroke=ffffff&background=1c1917&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="calc(50% - 5px)" /></a>
+  <a href="http://www.github.com/ghoullier"><img src="https://github-readme-stats.vercel.app/api?username=ghoullier&show_icons=true&hide=&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghoullier's GitHub stats" width="49%" /></a>
+  <a href="http://www.github.com/ghoullier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoullier&stroke=ffffff&background=1c1917&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
 </p>
