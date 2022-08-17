@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/ghoullier/">
   <img align="left" alt="Grégory's LinkedIn" width="21px" src="https://raw.githubusercontent.com/ghoullier/ghoullier/master/assets/linkedin.svg" />
 </a>
+<a href="https://ghoullier.deno.dev">
+  <img align="left" alt="Grégory's Blog" width="21px" src="https://deno.land/logo.svg" />
+</a>
 
 <br />
 <br />
