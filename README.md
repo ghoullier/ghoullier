@@ -1,14 +1,8 @@
 ### Hi there, I'm [Greg!](https://twitter.com/ghoullier) 👋
 
-<a href="https://twitter.com/ghoullier">
-  <img align="left" alt="Grégory Houllier | Twitter" width="21px" src="https://raw.githubusercontent.com/ghoullier/ghoullier/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ghoullier/">
-  <img align="left" alt="Grégory's LinkedIn" width="21px" src="https://raw.githubusercontent.com/ghoullier/ghoullier/master/assets/linkedin.svg" />
-</a>
-<a href="https://ghoullier.deno.dev">
-  <img align="left" alt="Grégory's Blog" width="21px" src="https://deno.land/logo.svg" />
-</a>
+[<img align="left" width="22" alt="Grégory Houllier | Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/ghoullier)
+[<img align="left" width="22" alt="Grégory's LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/ghoullier/)
+[<img align="left" width="22" alt="Grégory's Blog" src="https://deno.land/logo.svg">](https://ghoullier.deno.dev)
 
 <br />
 <br />
@@ -21,12 +15,13 @@ Hi, I'm Grégory Houlier, Web enthusiast and TypeScript addict and [@RennesJS](h
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+![Languages and Tools](https://skillicons.dev/icons?i=ts,nodejs,react,github,rust)
+
 
 **My GitHub Stats**
 
 <p aligh="left">
   <a href="http://www.github.com/ghoullier"><img src="https://github-readme-stats.vercel.app/api?username=ghoullier&show_icons=true&hide=&count_private=true&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb&bg_color=1c1917&hide_border=true&show_icons=true" alt="ghoullier's GitHub stats" width="49%" /></a>
   <a href="http://www.github.com/ghoullier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoullier&stroke=ffffff&background=1c1917&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/ghoullier"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ghoullier&style=flat-square"></a>
 </p>
