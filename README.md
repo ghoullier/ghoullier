@@ -10,7 +10,7 @@
 Hi, I'm Grégory Houlier, Web enthusiast and TypeScript addict and [@RennesJS](https://twitter.com/RennesJS) Co-Founder
 
 - 🔭 I’m currently working on [awesome-template-literal-types](https://github.com/ghoullier/awesome-template-literal-types)
-- 🌱 I’m currently work at [Swile](https://swile.co)
+- 🌱 I’m currently work at [ContentSquare](https://contentsquare.com/)
 - 💬 Ask me about anything [here](https://github.com/ghoullier/ghoullier/issues)
 
 **Languages and Tools:**
