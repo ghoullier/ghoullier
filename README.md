@@ -15,7 +15,7 @@ Hi, I'm Grégory Houlier, Web enthusiast and TypeScript addict and [@RennesJS](h
 
 **Languages and Tools:**
 
-![Languages and Tools](https://skillicons.dev/icons?i=ts,nodejs,deno,react,github,rust)
+![Languages and Tools](https://skillicons.dev/icons?i=ts,nodejs,bun,deno,react,vue,svelte,github,rust)
 
 
 **My GitHub Stats**
